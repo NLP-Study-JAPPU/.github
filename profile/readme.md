@@ -9,8 +9,6 @@
 * Meeting Date : 매주 일요일 08:00.PM
 * Location : [👾Discord](https://discord.gg/9ueDpCMz)
 </br></br>
-![살찐 보노보노](https://github.com/NLP-Study-JAPPU/.github/assets/90309728/9dad827b-11b4-4ce7-a325-18120ae98ee3)
-![살쪘어! 보노보노](https://github.com/NLP-Study-JAPPU/.github/assets/90309728/2e337040-c033-4ec1-a9aa-122f15cc0f0a)
 
 
 ## 😉 Member
