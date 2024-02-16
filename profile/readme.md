@@ -7,7 +7,7 @@
 * Participants : 유하영, 황현태
 * Start Date : 2024.01.02
 * Meeting Date : 매주 일요일 08:00.PM
-* Location : [👾Discord](https://discord.gg/9ueDpCMz)
+* Location : 👾Discord
 </br></br>
 
 
