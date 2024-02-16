@@ -12,7 +12,7 @@
 
 
 ## 😉 Member
-| <img src="https://github.com/NLP-Study-JAPPU/.github/assets/90309728/2e337040-c033-4ec1-a9aa-122f15cc0f0a" width="50%" height="50%"> |<img src="https://github.com/NLP-Study-JAPPU/.github/assets/47472389/4f48112b-30b4-4f51-9feb-2f1b4075c945" width="50%" height="50%">|<img width="86" alt="20240216131908" src="https://github.com/NLP-Study-JAPPU/.github/assets/90309728/51fb5309-a930-4e7d-b815-f2735f29821a">|
-|:---:|:---:|:---:|
-|[유하영](https://github.com/Hayeonggg)|[황현태](https://github.com/Oneul-hyeon)|___|
+| <img src="https://github.com/NLP-Study-JAPPU/.github/assets/90309728/2e337040-c033-4ec1-a9aa-122f15cc0f0a" width="50%" height="50%"> |<img src="https://github.com/NLP-Study-JAPPU/.github/assets/47472389/4f48112b-30b4-4f51-9feb-2f1b4075c945" width="50%" height="50%">|
+|:---:|:---:|
+|[유하영](https://github.com/Hayeonggg)|[황현태](https://github.com/Oneul-hyeon)|
 
