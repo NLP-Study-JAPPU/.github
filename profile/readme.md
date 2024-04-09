@@ -6,10 +6,14 @@
 * Goal : **논문을 통한 자연어처리 이해 및 기술 구현**
 * Participants : 유하영, 황현태, 나보영, 채주완
 * Start Date
+  <pre>
   > **1st** - 유하영, 황현태, 오원준  `2024.01.02 ~ 2024.02.14`<br>
-  > &nbsp;&nbsp;&nbsp; - 유하영, 황현태  `2024.02.15 ~ 2024.03.17`<br>
+  > &nbsp;&nbsp;&nbsp;&nbsp; - 유하영, 황현태  `2024.02.15 ~ 2024.03.17`<br><br>
+    
   > **2nd** - 유하영, 황현태, 나보영, 채주완 `2024.03.18 ~ `<br>
-  > &nbsp;&nbsp;&nbsp;  - 조태완  `2024.04.14`
+  > &nbsp;&nbsp;&nbsp;&nbsp;  - 조태완  `2024.04.14`
+  </pre>
+  
 * Meeting Date : 매주 일요일 08:00.PM
 * Location : 👾Discord
 </br></br>
