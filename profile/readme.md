@@ -10,7 +10,7 @@
   > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 유하영, 황현태  &nbsp; `2024.02.15 ~ 2024.03.17`<br><br>
     
   > **2nd** - 유하영, 황현태, 나보영, 채주완 &nbsp; `2024.03.18 ~ `<br>
-  > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 조태완  &nbsp; `2024.04.14 ~ `<br><br>
+  > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> - 조태완  &nbsp; `2024.04.14 ~ `<br><br>
   
 * Meeting Date : 매주 일요일 08:00.PM
 * Location : 👾Discord
