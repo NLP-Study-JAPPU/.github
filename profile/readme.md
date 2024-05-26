@@ -10,7 +10,7 @@
   > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 유하영, 황현태  &nbsp; :  `2024.02.15 ~ 2024.03.17`<br><br>
     
   > **2nd** - 유하영, 황현태, 나보영, 채주완 &nbsp; : `2024.03.18 ~ 2024.04.13`<br>
-  > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 유하영, 황현태, 나보영, 채주완, 조태완 &nbsp; : `2024.04.14 ~ 2024.05.25`<br><br>
+  > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 유하영, 황현태, 나보영, 채주완, 조태완 &nbsp; : `2024.04.14 ~ 2024.05.25`<br>
   > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 유하영, 황현태, 나보영, 조태완 &nbsp; : `2024.05.26 ~ `<br><br>
 
   
@@ -20,8 +20,8 @@
 
 
 ## 😉 Member
-| <img src="https://github.com/NLP-Study-JAPPU/.github/assets/90309728/2e337040-c033-4ec1-a9aa-122f15cc0f0a" width="150px" height="150px"> | <img src="https://github.com/NLP-Study-JAPPU/.github/assets/47472389/4f48112b-30b4-4f51-9feb-2f1b4075c945" width="150px" height="150px"> | <img src="https://github.com/NLP-Study-JAPPU/.github/assets/70682434/b1c90820-a349-4cff-910e-0a679938a468" width="150px" height="150px"> | <img src="https://avatars.githubusercontent.com/u/81293158?s=400&v=4" width="150px" height="150px"> | <img src="https://avatars.githubusercontent.com/u/89565530?s=400&u=14518ebd9ee0a6e524891e987e8d3cd0521a2196&v=4" width="150px" height="150px">
+| <img src="https://github.com/NLP-Study-JAPPU/.github/assets/90309728/2e337040-c033-4ec1-a9aa-122f15cc0f0a" width="150px" height="150px"> | <img src="https://github.com/NLP-Study-JAPPU/.github/assets/47472389/4f48112b-30b4-4f51-9feb-2f1b4075c945" width="150px" height="150px"> | <img src="https://github.com/NLP-Study-JAPPU/.github/assets/70682434/b1c90820-a349-4cff-910e-0a679938a468" width="150px" height="150px">  | <img src="https://avatars.githubusercontent.com/u/89565530?s=400&u=14518ebd9ee0a6e524891e987e8d3cd0521a2196&v=4" width="150px" height="150px">
 |:---:|:---:|:---:|:---:|:---:|
-|[유하영](https://github.com/Hayeonggg)|[황현태](https://github.com/Oneul-hyeon)|[나보영](https://github.com/naboyeong)|[채주완](https://github.com/joowan1108)|[조태완](https://github.com/taewan2002)|
+|[유하영](https://github.com/Hayeonggg)|[황현태](https://github.com/Oneul-hyeon)|[나보영](https://github.com/naboyeong)|[조태완](https://github.com/taewan2002)|
 
 
