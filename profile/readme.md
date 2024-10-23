@@ -24,7 +24,7 @@
 | <img src="https://github.com/NLP-Study-JAPPU/.github/assets/90309728/2e337040-c033-4ec1-a9aa-122f15cc0f0a" width="150px" height="150px"> 
 | <img src="https://github.com/NLP-Study-JAPPU/.github/assets/47472389/4f48112b-30b4-4f51-9feb-2f1b4075c945" width="150px" height="150px"> 
 | <img src="https://github.com/NLP-Study-JAPPU/.github/assets/90309728/2e337040-c033-4ec1-a9aa-122f15cc0f0a" width="150px" height="150px">  
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 |[유하영](https://github.com/Hayeonggg)|[황현태](https://github.com/Oneul-hyeon)|[이정](https://github.com/leejungp2)|
 
 
