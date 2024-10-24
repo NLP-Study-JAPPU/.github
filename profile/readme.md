@@ -4,7 +4,7 @@
 
 ## Study Info
 * Goal : **논문을 통한 자연어처리 이해 및 기술 구현**
-* Participants : 유하영, 황현태, 나보영, 채주완, 조태완
+* Participants : 유하영, 황현태, 이정
 * Start Date
   > **1st** - 유하영, 황현태, 오원준  &nbsp; : `2024.01.02 ~ 2024.02.14`<br>
   > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 유하영, 황현태  &nbsp; :  `2024.02.15 ~ 2024.03.17`<br><br>
