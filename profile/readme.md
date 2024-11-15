@@ -13,16 +13,17 @@
   > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 유하영, 황현태, 나보영, 채주완, 조태완 &nbsp; : `2024.04.14 ~ 2024.05.25`<br>
   > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 유하영, 황현태, 나보영, 조태완 &nbsp; : `2024.05.26 ~ 2024.08.18`<br><br>
 
-  > **3rd** - 유하영, 황현태, 이정 &nbsp;&nbsp; : `2024.10.27 ~ `<br><br>
+  > **3rd** - 유하영, 황현태, 이정 &nbsp;&nbsp; : `2024.10.27 ~ 2024.11.18`<br><br>
+  > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 유하영, 황현태, 이정, 한현민 &nbsp; : `2024.11.19 ~ `<br>
   
-* Meeting Date : 매주 일요일 19:00
+* Meeting Date : 매주 화요일 21:00
 * Location : 👾Discord
 </br></br>
 
 
 ## 😉 Member
-| <img src="https://github.com/NLP-Study-JAPPU/.github/assets/90309728/2e337040-c033-4ec1-a9aa-122f15cc0f0a" width="150px" height="150px"> | <img src="https://github.com/NLP-Study-JAPPU/.github/assets/47472389/4f48112b-30b4-4f51-9feb-2f1b4075c945" width="150px" height="150px"> | <img src="" width="150px" height="150px"> |
-|:---:|:---:|:---:|
-|[유하영](https://github.com/Hayeonggg)|[황현태](https://github.com/Oneul-hyeon)|[이정](https://github.com/leejungp2)|
+| <img src="https://github.com/NLP-Study-JAPPU/.github/assets/90309728/2e337040-c033-4ec1-a9aa-122f15cc0f0a" width="150px" height="150px"> | <img src="https://github.com/NLP-Study-JAPPU/.github/assets/47472389/4f48112b-30b4-4f51-9feb-2f1b4075c945" width="150px" height="150px"> | <img src="" width="150px" height="150px"> | <img src="" width="150px" height="150px"> |
+|:---:|:---:|:---:|:---:|
+|[유하영](https://github.com/Hayeonggg)|[황현태](https://github.com/Oneul-hyeon)|[이정](https://github.com/leejungp2)|[한현민](https://github.com/iluv4)|
 
 
